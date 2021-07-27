@@ -1,5 +1,5 @@
 ---
-title: "1. Introduction"
+title: "1. Frontend"
 weight: 1
 sectionnumber: 1
 description: >
@@ -9,4 +9,4 @@ description: >
 
 ## {{% param sectionnumber %}}.1: Introduction
 
-Lorem Ipsum
+Frontend Technologie.

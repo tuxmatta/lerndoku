@@ -1,10 +1,10 @@
 {
-  "name": "training-sbb-puzzle-hugo",
+  "name": "lerndoku-hugo",
   "version": "1.0.0",
-  "description": "Ausbildung SBB / Puzzle",
+  "description": "Lerndoku / Puzzle",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puzzle-bbt/training-sbb-puzzle.git"
+    "url": "git+https://github.com/puzzle-bbt/lerndoku.git"
   },
   "author": "Puzzle ITC",
   "dependencies": {
@@ -18,9 +18,9 @@
     "prepare": "husky install"
   },
   "bugs": {
-    "url": "https://github.com/puzzle-bbt/training-sbb-puzzle/issues"
+    "url": "https://github.com/puzzle-bbt/lerndoku/issues"
   },
-  "homepage": "https://github.com/puzzle-bbt/training-sbb-puzzle#readme",
+  "homepage": "https://github.com/puzzle-bbt/lerndoku#readme",
   "devDependencies": {
     "markdownlint-cli": "0.27.1"
   },
