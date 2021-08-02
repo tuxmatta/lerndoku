@@ -1,5 +1,5 @@
 ---
-title: "Slides"
+title: "Examples"
 
 weight: 1
 menu:
@@ -9,8 +9,8 @@ menu:
 
 {{< blocks/section type="section" color="light">}}
 
-{{% blocks/feature icon="fa-chalkboard-teacher" url="introduction.pdf" title="Slides" %}}
-Get the slides for this lab
+{{% blocks/feature icon="fa-chalkboard-teacher" title="Examples" %}}
+coming soon
 {{% /blocks/feature %}}
 
 {{< /blocks/section >}}
